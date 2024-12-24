@@ -1,5 +1,7 @@
 # Brain decoding
 
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re/) [![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com/) [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/likyoo/awesome-semi-supervised-segmentation/graphs/commit-activity)
+
 > only from top AI/CV conferences.
 
 
