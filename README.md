@@ -93,6 +93,7 @@
 
 | Year | Title                                                        | Abbreviation | Signals | CODE | Link                                     |
 | ---- | ------------------------------------------------------------ | ------------ | ------- | ---- | ---------------------------------------- |
+| 2024 | UniBrain: A Unified Model for Cross-Subject Brain Decoding |              |         |      | [link]([https://arxiv.org/abs/2405.17720](https://arxiv.org/pdf/2412.19487)) |
 | 2024 | MindFormer: Semantic Alignment of Multi-Subject fMRI for Brain Decoding |              |         |      | [link](https://arxiv.org/abs/2405.17720) |
 | 2024 | NeuGPT: Unified multi-modal Neural GPT                       |              |         |      | [link](https://arxiv.org/pdf/2410.20916) |
 | 2023 | Brain Captioning: Decoding human brain activity into images and text |              |         |      | [link](https://arxiv.org/abs/2305.11560) |
@@ -106,13 +107,48 @@
 
 TBD.
 
+## Datasets
+
+### 2D
+
+| Year | Title                                                        | Abbreviation | Note |
+| ---- | ------------------------------------------------------------ | ------------ | ----- |
+| 2017 | Generic decoding of seen and imagined objects using hierarchical visual features |       GOD       | fMRI |
+| 2019 | Deep image reconstruction from human brain activity |       DeepRecon       | fMRI |
+| 2019 | Bold5000, a public fmri dataset while viewing 5000 visual images |       BOLD5000       | fMRI |
+| 2022 | A massive 7t fmri dataset to bridge cognitive neuroscience and artificial intelligence |       NSD       | fMRI |
+| 2022 | A large and rich EEG dataset for modeling human visual object recognition |  | EEG |
+| 2023 | Things-data, a multimodal collection of large-scale datasets for investigating object representations in human brain and behavior |       THINGS       | fMRI |
+|      |                                                              |              | |
+
+### 3D
+
+| Year | Title                                                        | Abbreviation | Note |
+| ---- | ------------------------------------------------------------ | ------------ | ----- |
+| 2024 | MinD-3D: Reconstruct High-quality 3D objects in Human Brain |       fMRI-Shape       | fMRI |
+| 2024 | Neuro-3D: Towards 3D Visual Decoding from EEG Signals |       EEG-3D       | EEG |
+|      |                                                              |              | |
+
+### Video
+
+| Year | Title                                                        | Abbreviation | Note |
+| ---- | ------------------------------------------------------------ | ------------ | ----- |
+| 2011 | A common, high-dimensional model of the representational space in human ventral temporal cortex |       Raiders       | fMRI |
+| 2013 | The wu-minn human connectome project: an overview |       HCP       | fMRI |
+| 2014 | A high-resolution 7-tesla fmri dataset from complex natural stimulation with an audio movie |       Forrest Gump       | fMRI |
+| 2017 | Neural encoding and decoding with deep learning for dynamic natural vision |       cc2017       | fMRI |
+| 2020 | An fmri dataset in response to “the grand budapest hotel”, a socially-rich, naturalistic movie |       Budapest       | fMRI |
+|      |                                                              |              | |
+
 
 
 ## Resources
 
 Groups
 
-- Meta
+- [Jack Gallant](https://gallantlab.org/)
+- [Yukiyasu Kamitani](https://kamitani-lab.ist.i.kyoto-u.ac.jp/)
+- 
 
 Awesome repos
 
