@@ -93,7 +93,7 @@
 
 | Year | Title                                                        | Abbreviation | Signals | CODE | Link                                     |
 | ---- | ------------------------------------------------------------ | ------------ | ------- | ---- | ---------------------------------------- |
-| 2024 | UniBrain: A Unified Model for Cross-Subject Brain Decoding |              |         |      | [link]([https://arxiv.org/abs/2405.17720](https://arxiv.org/pdf/2412.19487)) |
+| 2024 | UniBrain: A Unified Model for Cross-Subject Brain Decoding |              |         |      | [link](https://arxiv.org/pdf/2412.19487) |
 | 2024 | MindFormer: Semantic Alignment of Multi-Subject fMRI for Brain Decoding |              |         |      | [link](https://arxiv.org/abs/2405.17720) |
 | 2024 | NeuGPT: Unified multi-modal Neural GPT                       |              |         |      | [link](https://arxiv.org/pdf/2410.20916) |
 | 2023 | Brain Captioning: Decoding human brain activity into images and text |              |         |      | [link](https://arxiv.org/abs/2305.11560) |
