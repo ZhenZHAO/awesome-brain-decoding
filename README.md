@@ -31,6 +31,7 @@
 | Published            | Title                                                        | Abbreviation | Signals | CODE | Link |
 | -------------------- | ------------------------------------------------------------ | ------------ | ------- | ---- | ---- |
 | NeurIPS              | [Neuro-Vision to Language: Enhancing Brain Recording-based Visual Reconstruction and Language Interaction](https://neurips.cc/virtual/2024/poster/93607) |              |         |      |      |
+| NeurIPS              | [Brain Treebank: Large-scale intracranial recordings from naturalistic language stimuli](https://arxiv.org/pdf/2411.08343) |              |         |      |      |
 | NeurIPS              | [ BrainBits: How Much of the Brain are Generative Reconstruction Methods Using?](https://neurips.cc/virtual/2024/poster/95678) |              |         |      |      |
 | NeurIPS              | [NeuroClips: Towards High-fidelity and Smooth fMRI-to-Video Reconstruction](https://neurips.cc/virtual/2024/poster/96344) |              |         |      |      |
 | NeurIPS              | [Neural decoding from stereotactic EEG: accounting for electrode variability across subjects](https://neurips.cc/virtual/2024/poster/95591) |              |         |      |      |
@@ -138,6 +139,7 @@ TBD.
 | 2014 | A high-resolution 7-tesla fmri dataset from complex natural stimulation with an audio movie |       Forrest Gump       | fMRI |
 | 2017 | Neural encoding and decoding with deep learning for dynamic natural vision |       cc2017       | fMRI |
 | 2020 | An fmri dataset in response to “the grand budapest hotel”, a socially-rich, naturalistic movie |       Budapest       | fMRI |
+| 2024 | Brain Treebank: Large-scale intracranial recordings from naturalistic language stimuli | Brain Treebank | EEG |
 |      |                                                              |              | |
 
 
